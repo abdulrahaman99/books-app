@@ -1,21 +1,19 @@
-*{
-  margin: 0%;
-  padding: 0%;
-  
-}
+
 
 .app{
   display: flex;
   min-height: 100%;
   flex-direction: column;
 }
-/*{
+main{
   flex: 1;
-}*/
+}
+
+
 .appbar{
   padding: 0 30px;
 }
-.navbar-fixed{
+/* .navbar-fixed{
   background-color: crimson;
   height: 80px;
   border-bottom: box-shadow gray;
@@ -54,8 +52,8 @@ form{
   max-width: 700px;
   margin: 20px auto;
   border-radius: 5px;
-  /*height: 40vh;*/
+  /*height: 40vh;
 }
 form input{
   height: 40px;
-}
+} */
